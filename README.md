@@ -2,7 +2,7 @@
 
 1234567
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
-
+0987654321
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
